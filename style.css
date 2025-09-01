@@ -1,0 +1,84 @@
+section{
+    background-image: url(image/mountain.jpg);
+    padding: 60px 0;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    color: white;
+    position: relative;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+}
+
+
+/* აქ ვერ გავაკეთე რო მხოლოდ mourithemes იყოს ცალკე სიტყვა */
+.logo{
+    left: 0;
+}
+
+li {
+    color: white;
+    text-align: center;
+    display: inline;
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.flex-container{
+    letter-spacing: 3px;
+}
+
+
+.content{
+    color: black;
+    max-width: 100%;
+    text-align: center;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.m-30{
+    padding: 30px;
+}
+
+
+/* აქ უკანაფონი არ შემეცვალა*/
+.area{
+    color: #fff;
+}
+
+
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.cont{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(100, 95, 160);
+
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+   
+}
+
+.sticky{
+    position: sticky;
+    top: 0;
+}
